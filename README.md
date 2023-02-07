@@ -8,7 +8,14 @@
 - Guest ID: intorest@intorest.com
 - Guest PW: intorest1!
 
+
 <br>
+
+## ⛳️ 개인 회고로 넘어가기
+[저의 개인 회고는 이쪽으로 모십니다!](https://m0rethan.tistory.com/103)
+
+<br>
+
 
 ## ⛳️ 목차
 
