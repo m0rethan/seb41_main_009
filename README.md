@@ -5,7 +5,11 @@
 
 
 ## ⛳️ 개인 회고와 담당 구현 부분
-[저의 개인 회고는 이쪽으로 모십니다!](https://m0rethan.tistory.com/103)
+-[개인회고 바로가기](https://m0rethan.tistory.com/103) 
+
+<br>
+
+-담당 구현
 1. [회원가입 & 로그인](https://github.com/m0rethan/seb41_main_009/edit/main/README.md#1-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85--%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 2. [시리즈](https://github.com/m0rethan/seb41_main_009/edit/main/README.md#3-%EC%8B%9C%EB%A6%AC%EC%A6%88)
 
